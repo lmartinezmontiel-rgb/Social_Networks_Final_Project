@@ -10,17 +10,21 @@ library(tidygraph)
 library(ggraph)
 
 library(visNetwork)
+install.packages("rsconnect")
+library(rsconnect)
+rsconnect::writeManifest()
+
 
 # Section 2. Design the site in the UI section (US = User Interface). This is where we define how everything looks and 
 # how people can use the app. 
 
 ui <-fluidPage(
   
-  titlePanel("This is where your title goes"),
+  titlePanel("Social Networks Final Project"),
   
   page_sidebar(
-    title = "subtitle here", 
-    sidebar = sidebar ("Menu options"), 
+    title = "Visualization 1", 
+    sidebar = sidebar ("Menu Options"), 
     card(
       card_header("Here's where I would introduce your project"), "put some content here"),
     card(
