@@ -10,9 +10,7 @@ library(tidygraph)
 library(ggraph)
 
 library(visNetwork)
-install.packages("rsconnect")
-library(rsconnect)
-rsconnect::writeManifest()
+
 
 
 # Section 2. Design the site in the UI section (US = User Interface). This is where we define how everything looks and 
