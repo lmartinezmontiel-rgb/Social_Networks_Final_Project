@@ -1,7 +1,7 @@
 # Shiny App 
 # Section 1. First install and activate all your required packages. 
 
-library(shiny)
+library(shiny) 
 library(bslib)
 
 library(tidyverse)
@@ -26,23 +26,16 @@ ui <-fluidPage(
     title = "Visualization 1", 
     sidebar = sidebar ("Menu Options"), 
     card(
-      card_header("Here's where I would introduce your project"), "put some content here"),
-    card(
-      card_header("Dynamic Demo 1"), "you could put a caption like so",
-      selectInput("select", 
-                  "select an option", 
-                  choices = list("Option A" = "A", 
-                                 "Option B" = "B"),
-                  selected =1), 
-      textOutput("ourVariable")
-      ), 
+      card_header("In this final project I decied to calculate how many interactions each character has 
+                  with one another, in the spanish telenovela, Soy Tu Duena. "), "This telenovela has 142 episodes
+      which, is alot, however I decided to only take data from only from the first,last and every 20 episodes in between."), 
     
     
-    card(card_header("here's a network!"),
+    card(card_header("Visualization 1"),
          selectInput("size",
-                     "choose a centrality measure", 
-                     choices = list("Degree Centrality" = "degree", 
-                                    "Betweenness Centrality" = "betweenness"), 
+                     "Choose Your Character", 
+                     choices = list("Character" = "???????degree", 
+                                    "Delte this?" = "betweenness"), 
                      selected = 1), 
          plotOutput("example_network"), height = "400px"),
     
