@@ -1,0 +1,274 @@
+Source,Target,Weight,Episode
+Benita,Serafin,1,1
+Alex,Valentina,2,1
+Valentina,Lucy,2,1
+Sra Isabel,Benita,2,1
+Gabirella,Ivana,2,1
+Lucy,Valentina,1,1
+Alonso,Valentina,5,1
+Sra Isabel,Ivana,4,1
+Benita,Sra Isabel,2,1
+Alonso,Ivana,2,1
+Valentina,Padre (Mexico),1,1
+Ivana,Alonso,3,1
+Valentina,Ivana,5,1
+Alonso,Felipe,1,1
+Valentina,Sra Isabel,3,1
+Ivana,Sra Isabel,3,1
+Benita,Valentina,4,1
+Benita,Ivana,2,1
+Gabirella,Felipe,2,1
+Alonso,Margarita,1,1
+Alonso,Oscar,1,1
+Valentina,Gabirella,1,1
+Valentina,Alonso,1,1
+Valentina,Ivana,1,20
+Benita,Filadelfo,1,20
+Sra Isabel,Padre (Mexico),1,20
+Sra Isabel,Benita,2,20
+Sra Isabel,Filadelfo,1,20
+Sandy,Enriqueta,1,20
+Crisanta,Rosendo,1,20
+Sra Isabel,Ivana,3,20
+Benita,Ivana,1,20
+Sabino,Jose Miguel,1,20
+Sra Isabel,Valentina,2,20
+Teresa,Jose Miguel,2,20
+Juan,Teresa,1,20
+Teresa,Juan,1,20
+Sra Isabel,Don Ernesto,2,20
+Jose Miguel,Chuy,4,20
+Alonso,Hitman,1,20
+Valentina,Benita,1,20
+Filadelfo,Rosendo,1,20
+Rosendo,Ivana,1,20
+Benita,Valentina,2,20
+Illuminada,Valentina,1,20
+Benita,Illuminada,1,20
+Illuminada,Jose Miguel,1,20
+Illuminada,Chuy,2,20
+Jose Miguel,Valentina,7,20
+Jose Miguel,Sra Isabel,2,20
+Jose Miguel,Benita,2,20
+Illuminada,Farm Worker,1,20
+Benita,Jose Miguel,1,20
+Chuy,Benita,1,20
+Chuy,Sra Isabel,1,20
+Enriqueta,Sandy,1,20
+Amparo,Jose Miguel,1,20
+Oracio,Sandy,1,20
+Cmd. Toledo,Don Ernesto,1,40
+Felipe,Jose Miguel,1,40
+Don Ernesto,Cmd. Toledo,1,40
+Sandy's Dad,Sandy,1,40
+Sandy,Enriqueta,1,40
+Enriqueta,Sandy's Dad,1,40
+Sra Isabel,Valentina,1,40
+Leonor,Federico,1,40
+Benita,Valentina,1,40
+Rosendo,Filadelfo,1,40
+Enriqueta,Ivana,1,40
+Ivana,Sandy,1,40
+Oracio,Padre (De las Penas),1,40
+Ivana,Sandy,1,40
+Oracio,Temo,1,40
+Enriqueta,Oracio,1,40
+Rosendo,Valentina,1,40
+Sabino,Jose Miguel,1,40
+Sandy's Dad,Enriqueta,1,40
+Benita,Sra Isabel,1,40
+Leonor,Teresa,2,40
+Federico,Leonor,1,40
+Leonor,Jose Miguel,1,40
+Sra Isabel,Benita,2,40
+Illuminada,Sra Isabel,1,40
+Benita,Sra Isabel,1,40
+Sra Isabel,Don Ernesto,2,40
+Jose Miguel,Leonor,1,40
+Ivana,Don Ernesto,1,40
+Ivana,Sra Isabel,2,40
+Chuy,Ivana,1,40
+Chuy,Sra Isabel,1,40
+Valentina,Chuy,1,40
+Valentina,Don Ernesto,1,40
+Chuy,Jose Miguel,1,40
+Leonor,Ivana,1,40
+Valentina,Sra Isabel,1,40
+Illuminada,Valentina,1,60
+Crisanta,Valentina,2,60
+Illuminada,Crisanta,2,60
+Sra Isabel,Benita,1,60
+Gossip woman 1,Gossip woman 2,1,60
+Sandy,Gossip woman 1,1,60
+Gossip woman 2,Sandy,1,60
+Valentina,Sandy,1,60
+Ivana,Jose Miguel,2,60
+Jose Miguel,Rosendo,1,60
+Enriqueta,Leonor,1,60
+Rosendo,Filadelfo,1,60
+Jose Miguel,Valentina,3,60
+Ivana,Valentina,1,60
+Valentina,Jose Miguel,1,60
+Felipe,Rosendo,1,60
+Nurse,Felipe,1,60
+Valentina,Ivana,1,60
+Sabino,Jose Miguel,1,60
+Benita,Valentina,1,60
+Valentina,Illuminada,1,60
+Jose Miguel,Federico,1,60
+Rosendo,Valentina,1,60
+Leonor,Federico,1,60
+Rosendo,Ivana,1,60
+Leonor,Sra Isabel,1,60
+Jose Miguel,Sabino,1,80
+Leonor,Ivana,1,80
+Ivana,Jose Miguel,1,80
+Valentina,Rosendo,1,80
+Jose Miguel,Ivana,2,80
+Rosendo,Valentina,1,80
+Gabirella,Sra Isabel,1,80
+Felipe,Padre (De las Penas),1,80
+Illuminada,Benita,1,80
+Amparo,Crisanta,1,80
+Gossip woman 1,Temo,1,80
+Gossip woman 2,Temo,1,80
+Gossip woman 3,Temo,1,80
+Gossip woman 3,Gossip woman 1,1,80
+Oracio,Temo,3,80
+Gabirella,Temo,1,80
+Oracio,Gabirella,2,80
+Sabino,Sra Isabel,1,80
+Jose Miguel,Benita,1,80
+Jose Miguel,Valentina,1,80
+Rosendo,Jose Miguel,1,80
+Benita,Valentina,1,80
+Ivana,Sindico,2,80
+Sindico,Jose Miguel,2,80
+Chuy,Juan,1,80
+Jose Miguel,Leonor,1,80
+Gabirella,Valentina,1,80
+Illuminada,Benita,1,80
+Benita,Don Ernesto,2,80
+Illuminada,Don Ernesto,1,80
+Benita,Illuminada,1,80
+Leonor,Ivana,1,80
+Aracelia,Jose Miguel,1,100
+Ivana,Rafaela,1,100
+Filadelfo,Rosendo,1,100
+Sabino,Juan,1,100
+Rosendo,Filadelfo,2,100
+Illuminada,Enriqueta,1,100
+Chuy,Sabino,1,100
+Felipe,Sandy,2,100
+Teresita,Teresa,1,100
+Benita,Valentina,1,100
+Jose Miguel,Padre (Mexico),1,100
+Ivana,Rafaela,1,100
+Juan,Amparo,1,100
+Filadelfo,Valentina,1,100
+Filadelfo,Rosendo,1,100
+Padre (De las Penas),Felipe,1,100
+Amparo,Felipe,1,100
+Sandy,Sandy's Dad,2,100
+Benita,Don Ernesto,1,100
+Valentina,Benita,1,100
+Illuminada,Valentina,1,100
+Illuminada,Benita,1,100
+Illuminada,Don Ernesto,1,100
+Sabino,Juan,1,100
+Sabino,Teresa,1,100
+Juan,Teresa,1,100
+Enriqueta,Sandy,1,100
+Sra Isabel,Juan,1,100
+Teresa,Valentina,1,100
+Gabirella,Teresa,1,100
+Sra Isabel,Sabino,1,100
+Valentina,Sra Isabel,1,100
+Sabino,Valentina,1,100
+Valentina,Teresa,1,100
+Gabirella,Valentina,2,120
+Cmd. Toledo,Sindico,1,120
+Sindico,Cmd. Toledo,1,120
+Jose Miguel,Valentina,5,120
+Jose Miguel,Gabirella,3,120
+Valentina,Gabirella,1,120
+Cmd. Toledo,Sra Isabel,3,120
+Valentina,Benita,2,120
+Illuminada,Benita,1,120
+Abogado,Rosendo,1,120
+Enriqueta,Leonor,1,120
+Leonor,Ivana,1,120
+Valentina,Jose Miguel,2,120
+Sindico,Sra Isabel,1,120
+Valentina,Sindico,1,120
+Alonso,Santiaguito,1,120
+Oracio,Temo,1,120
+Illuminada,Benita,1,120
+Don Ernesto,Benita,1,120
+Amparo,Felipe,1,120
+Sandy,Sandy's Dad,1,120
+Valentina,Sra Isabel,1,120
+Don Ernesto,Sindico,3,120
+Don Ernesto,Cmd. Toledo,1,120
+Don Ernesto,Don Ernesto,1,120
+Sindico,Cmd. Toledo,1,120
+Valentina,Sindico,1,120
+Alonso,Valentina,1,120
+Jose Miguel,Alonso,1,120
+Gossip woman 1,Amparo,1,120
+Gossip woman 2,Amparo,1,120
+Benita,Valentina,1,120
+Valentina,Alonso,2,120
+Alonso,Jose Miguel,1,120
+Rosendo,Crisanta,1,120
+Filadelfo,Rosendo,1,120
+Sra Isabel,Don Ernesto,1,120
+Alonso,Jose Miguel,1,120
+Padre (De las Penas),Sra Isabel,1,120
+Sabino,Jose Miguel,1,140
+Illuminada,Felipe,1,140
+Witness 1,Cmd. Toledo,1,140
+Gabirella,Felipe,1,140
+Sra Isabel,Felipe,1,140
+Illuminada,Jose Miguel,1,140
+Oracio,Alonso,1,140
+Amparo,Alonso,1,140
+Sandy,Temo,1,140
+Ivana,Gabirella,1,140
+Sandy,Primo,1,140
+Sra Isabel,Valentina,1,140
+Illuminada,Sabino,1,140
+Felipe,Padre (De las Penas),1,140
+Ivana,Sra Isabel,1,140
+Ivana,Valentina,1,140
+Sra Isabel,Ivana,3,140
+Jose Miguel,Ivana,1,140
+Valentina,Jose Miguel,2,140
+Don Ernesto,Jose Miguel,1,140
+Jose Miguel,Leonor,1,140
+Sandy,Alonso,1,140
+Sandy,Oracio,1,140
+Sra Isabel,Illuminada,1,140
+Don Ernesto,Sra Isabel,1,140
+Valentina,Sra Isabel,1,140
+Illuminada,Sra Isabel,1,140
+Jose Miguel,Sabino,1,140
+Illuminada,Valentina,1,142
+Leonor,Valentina,3,142
+Leonor,Sra Isabel,1,142
+Sra Isabel,Valentina,1,142
+Sra Isabel,Don Ernesto,1,142
+Sabino,Leonor,1,142
+Gabirella,Sra Isabel,1,142
+Valentina,Sra Isabel,1,142
+Don Ernesto,Sra Isabel,1,142
+Leonor,Jose Miguel,1,142
+Jose Miguel,Valentina,2,142
+Gossip woman 1,Gossip woman 2,1,142
+Padre (De las Penas),Padre (Justino),1,142
+Don Ernesto,Jose Miguel,1,142
+Valentina,Jose Miguel,3,142
+Rosendo,Jose Miguel,1,142
+Alonso,Jose Miguel,1,142
+Leonor,Valentina,1,142
+Leonor,Sra Isabel,1,142

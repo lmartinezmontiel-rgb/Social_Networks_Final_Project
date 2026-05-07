@@ -9,9 +9,6 @@ library(tidygraph)
 library(ggraph)
 library(ggplot2)
 library(visNetwork)
-install.packages("rsconnect")
-library(rsconnect)
-rsconnect::writeManifest()
 
 #Creating graphs
 
