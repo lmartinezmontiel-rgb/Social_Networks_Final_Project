@@ -10,10 +10,14 @@ library(ggraph)
 library(ggplot2)
 library(visNetwork)
 
+install.packages("rsconnect")
+library(rsconnect)
+rsconnect::writeManifest()
+
 #Creating graphs
 
-STD_Edges <- read_csv("~/Desktop/STD_Edges_Data_FIXED.csv")
-STD_Nodes<- read_csv("~/Desktop/STD_Nodes_Data_Actully_Fixed.csv")
+STD_Edges <- read_csv("STD_Edges_Data_FIXED.csv")
+STD_Nodes<- read_csv("STD_Nodes_Data_Actully_Fixed.csv")
 
 STD_Full <- graph_from_data_frame(d=STD_Edges, vertices = STD_Nodes, directed = FALSE)
 
