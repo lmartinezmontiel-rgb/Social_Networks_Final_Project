@@ -10,10 +10,6 @@ library(ggraph)
 library(ggplot2)
 library(visNetwork)
 
-install.packages("rsconnect")
-library(rsconnect)
-rsconnect::writeManifest()
-
 #Creating graphs
 
 STD_Edges <- read_csv("STD_Edges_Data_FIXED.csv")
