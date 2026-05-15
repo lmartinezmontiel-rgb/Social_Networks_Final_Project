@@ -12,9 +12,6 @@ library(visNetwork)
 library(shiny)
 library(shinythemes)
 
-install.packages("rsconnect")
-library(rsconnect)
-rsconnect::writeManifest()
 
 ###################################################################################################################
 #User interface
